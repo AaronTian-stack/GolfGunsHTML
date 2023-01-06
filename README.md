@@ -3,6 +3,11 @@ Public HTML Builds of my in development indie game. Play at [this link.](https:/
 
 [Development Footage YouTube Playlist](https://youtube.com/playlist?list=PLZcvEOxXvlm42nLZId6FSk-2XstOKeQi6)
 
+## Instructions
+
+Click to fire a projectile.
+Press ```.``` to open the debug menu. Enlarge the window by clicking and dragging bottom right corner. You can view and manipulate entity properties. 
+
 https://user-images.githubusercontent.com/84607804/211112603-b599f65e-d761-4cf6-8348-9a3d64a5cff2.mp4
 
 
