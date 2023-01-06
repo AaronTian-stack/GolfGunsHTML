@@ -1,5 +1,5 @@
 # GolfGunsHTML
-Public HTML Builds of my in development indie game. Play at [this link.](https://aarontian-stack.github.io/GolfGunsHTML/ "GolfGuns")
+Public HTML Builds of my in development indie game. Play at [this link.](https://aarontian-stack.github.io/GolfGunsHTMLPrivate/ "GolfGuns")
 
 [Development Footage YouTube Playlist](https://youtube.com/playlist?list=PLZcvEOxXvlm42nLZId6FSk-2XstOKeQi6)
 
