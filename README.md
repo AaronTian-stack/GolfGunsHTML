@@ -5,7 +5,7 @@ Public HTML Builds of my in development indie game. Play at [this link.](https:/
 
 ## Instructions
 
-Left-click to fire a projectile. Right-click to pan the camera.
+```Left-click``` to fire a projectile. ```Right-click``` to pan the camera.
 Press ```.``` to open the debug menu. Enlarge the window by clicking and dragging bottom right corner. You can view and manipulate a lot of entity properties. 
 
 https://user-images.githubusercontent.com/84607804/211112603-b599f65e-d761-4cf6-8348-9a3d64a5cff2.mp4
