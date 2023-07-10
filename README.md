@@ -3,10 +3,10 @@ Public HTML Builds of my in development indie game. Play at [this link.](https:/
 
 [Development Footage YouTube Playlist](https://youtube.com/playlist?list=PLZcvEOxXvlm42nLZId6FSk-2XstOKeQi6)
 
-**PERFORMANCE OF THE HTML BUILD IS NOT FAST. WEB IS NOT INTENDED TO BE A SUPPORTED PLATFORM FOR FINAL RELEASE.**
+**PERFORMANCE OF THE HTML BUILD MAY NOT BE FAST. WEB IS NOT INTENDED TO BE A SUPPORTED PLATFORM FOR FINAL RELEASE.**
 
 ## Instructions
-```WASD``` to move. ```Left-click``` to fire a projectile from your current weapon. ```Right-click``` to pan the camera. Press ```R``` to reload. Press ```K``` to spawn a frog.
+```WASD``` to move. ```Left-click``` to fire a projectile from your current weapon. ```Right-click``` to pan the camera. Press ```R``` to reload. Press ```K``` to spawn a frog. Press ```Q``` to slow down time.
 Press ```.``` to open the debug menu. Enlarge the window by clicking and dragging bottom right corner. You can view and manipulate a lot of entity properties. 
 Press ```1,2,3``` or use the scroll wheel to switch weapons.
 
