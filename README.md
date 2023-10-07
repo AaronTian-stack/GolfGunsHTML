@@ -5,6 +5,8 @@ Public HTML Builds of my in development indie game. Play at [this link.](https:/
 
 **PERFORMANCE OF THE HTML BUILD MAY NOT BE FAST. WEB IS NOT INTENDED TO BE A SUPPORTED PLATFORM FOR FINAL RELEASE.**
 
+Source code is private, please contact me for samples.
+
 ## Instructions
 * ```WASD``` to move.
 * ```Left-click``` to fire a projectile from your current weapon.
